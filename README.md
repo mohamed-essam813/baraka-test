@@ -1,4 +1,9 @@
-First, install packages:
+First, clone the github repo in your device:
+```bash
+git clone https://github.com/mohamed-essam813/baraka-test.git
+```
+
+Second, go to the project directory and install packages by run:
 
 ```bash
 npm install
@@ -6,7 +11,7 @@ npm install
 yarn
 ```
 
-Second, run the development server:
+Third, run the development server:
 
 ```bash
 npm run dev
