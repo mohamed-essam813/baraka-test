@@ -1,0 +1,2099 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <div
+    class="w-full"
+  >
+    <div
+      class="flex justify-between flex-col bg-hero-bg-image bg-cover bg-center bg-no-repeat w-full min-h-screen"
+    >
+      <div
+        class="flex py-3 px-6 justify-between items-center"
+      >
+        <img
+          alt="baraka-logo"
+          class="w-7"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div>
+          <button
+            class="bg-zinc-800 text-white py-2 px-5 text-xs rounded-full"
+          >
+            Get the App
+          </button>
+        </div>
+      </div>
+      <div
+        class="backdrop-blur-md bg-neutral-300/30 w-[475px] rounded-xl p-[40px] mx-[120px]"
+      >
+        <h3
+          class="text-white text-2xl mb-[60px]"
+        >
+          Vacation
+        </h3>
+        <h2
+          class="text-white text-5xl"
+        >
+          Financial Report for Khaled Abu Asbeh
+        </h2>
+        <div
+          class="flex gap-4 mt-[40px] mb-[60px]"
+        >
+          <button
+            class="bg-white font-medium text-black py-2 px-5 text-xs rounded-full"
+          >
+            Start Investing
+          </button>
+          <button
+            class="flex gap-1 text-white py-2 px-5 text-xs items-center"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M336 176h40a40 40 0 0140 40v208a40 40 0 01-40 40H136a40 40 0 01-40-40V216a40 40 0 0140-40h40"
+                fill="none"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="32"
+              />
+              <path
+                d="M176 272l80 80 80-80M256 48v288"
+                fill="none"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="32"
+              />
+            </svg>
+            Download Report
+          </button>
+        </div>
+        <p
+          class="text-white text-xs"
+        >
+          October 19, 2023
+        </p>
+      </div>
+      <button
+        class="flex items-center justify-center self-center bg-white text-black text-xs rounded-full w-11 h-11 mb-[40px]"
+      >
+        <svg
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"
+          />
+        </svg>
+      </button>
+    </div>
+    <div
+      class="container flex flex-col items-center mx-auto pt-[100px]"
+    >
+      <h2
+        class="text-4xl text-center mb-[24px]"
+      >
+        Well Done Khaled.
+        <br />
+        You Have Successfully Created Your Goal.
+      </h2>
+      <p
+        class="text-sm text-center mx-auto max-w-[500px] font-light"
+      >
+        We took all of your inputs and created a plan for you. Its pretty simple, to get to
+        <span
+          class="font-medium"
+        >
+           $170,000
+        </span>
+         savings in the next 
+        <span
+          class="font-medium"
+        >
+          70 years
+        </span>
+        , you need to invest 
+        <span
+          class="font-medium"
+        >
+          $2,000 now
+        </span>
+         and 
+        <span
+          class="font-medium"
+        >
+          $200 every month 
+        </span>
+        for the next 70 years.
+      </p>
+      <button
+        class="flex gap-1 text-zinc-500 py-2 px-5 text-xs rounded-full items-center mt-[24px]"
+      >
+        Recalculate
+      </button>
+    </div>
+    <div
+      class="flex flex-col border border-zinc-200 rounded-xl lg:mx-20 xl:mx-48 p-[32px] mt-[80px] mb-[80px] min-h-[200px]"
+    >
+      <div
+        class="flex justify-between mb-[40px]"
+      >
+        <div
+          class="flex flex-col"
+        >
+          <h3
+            class="text-2xl mb-[32px]"
+          >
+            Investment Forecast
+          </h3>
+          <p
+            class="text-lg"
+          >
+            With Your Portfolio, Your Wealth Could Grow to
+          </p>
+          <h4
+            class="text-xl"
+          >
+            $51,998,32 in 20 Years
+          </h4>
+        </div>
+        <div
+          class="flex bg-green-200 rounded-xl px-[24px] py-[12px] gap-2"
+        >
+          <div
+            class="text-lg mt-[2px]"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 1024 1024"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M885.9 533.7c16.8-22.2 26.1-49.4 26.1-77.7 0-44.9-25.1-87.4-65.5-111.1a67.67 67.67 0 0 0-34.3-9.3H572.4l6-122.9c1.4-29.7-9.1-57.9-29.5-79.4A106.62 106.62 0 0 0 471 99.9c-52 0-98 35-111.8 85.1l-85.9 311H144c-17.7 0-32 14.3-32 32v364c0 17.7 14.3 32 32 32h601.3c9.2 0 18.2-1.8 26.5-5.4 47.6-20.3 78.3-66.8 78.3-118.4 0-12.6-1.8-25-5.4-37 16.8-22.2 26.1-49.4 26.1-77.7 0-12.6-1.8-25-5.4-37 16.8-22.2 26.1-49.4 26.1-77.7-.2-12.6-2-25.1-5.6-37.1zM184 852V568h81v284h-81zm636.4-353l-21.9 19 13.9 25.4a56.2 56.2 0 0 1 6.9 27.3c0 16.5-7.2 32.2-19.6 43l-21.9 19 13.9 25.4a56.2 56.2 0 0 1 6.9 27.3c0 16.5-7.2 32.2-19.6 43l-21.9 19 13.9 25.4a56.2 56.2 0 0 1 6.9 27.3c0 22.4-13.2 42.6-33.6 51.8H329V564.8l99.5-360.5a44.1 44.1 0 0 1 42.2-32.3c7.6 0 15.1 2.2 21.1 6.7 9.9 7.4 15.2 18.6 14.6 30.5l-9.6 198.4h314.4C829 418.5 840 436.9 840 456c0 16.5-7.2 32.1-19.6 43z"
+              />
+            </svg>
+          </div>
+          <div
+            class="flex flex-col max-w-[330px]"
+          >
+            <p
+              class="font-medium mb-[8px]"
+            >
+              On−track
+            </p>
+            <p
+              class="font-light"
+            >
+              Great! You will most Likely your goal within the desired timeframe.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex justify-center mb-[50px]"
+      >
+        <img
+          alt="investment-forecast-chart"
+          class="w-3/4 ml-[54px]"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+      </div>
+      <div
+        class="w-7/12"
+      >
+        <h3
+          class="text-xl mb-[26px]"
+        >
+          About Trailblazer Portfolio
+        </h3>
+        <p
+          class="text-sm text-zinc-500"
+        >
+          Let this pioneer navigate your long-term investment journey. This portfolio offers exposure to the most promising companies and high potential assets classes. Its not for the faint of heart, but in the long run it projects to offer the highest potential returns. This is most suitable for this early in their careers for saving or with goals that reach many years into the future (greater than 7 years).
+        </p>
+      </div>
+    </div>
+    <div
+      class="flex items-center bg-premium-upgrade-bg-image bg-cover bg-center bg-no-repeat w-full min-h-[700px] lg:pl-20 xl:pl-48 py-[100px]"
+    >
+      <div
+        class="flex flex-col backdrop-blur-md bg-zinc-800/80 lg:w-[325px] xl:w-[425px] shrink-0 rounded-xl lg:p-6 xl:p-12"
+      >
+        <div
+          class="text-white lg:text-3xl xl:text-5xl mb-12"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M35.42 188.21l207.75 269.46a16.17 16.17 0 0025.66 0l207.75-269.46a16.52 16.52 0 00.95-18.75L407.06 55.71A16.22 16.22 0 00393.27 48H118.73a16.22 16.22 0 00-13.79 7.71L34.47 169.46a16.52 16.52 0 00.95 18.75zM48 176h416"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="32"
+            />
+            <path
+              d="M400 64l-48 112-96-128M112 64l48 112 96-128m0 400l-96-272m96 272l96-272"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="32"
+            />
+          </svg>
+        </div>
+        <h2
+          class="text-white lg:text-2xl xl:text-4xl mb-6"
+        >
+          Upgrade to Premium and Unlock Next Quarters Reports
+        </h2>
+        <p
+          class="text-neutral-500 lg:text-sm xl:text-xl mb-12"
+        >
+          Supercharge your financial planning by accessing next quarters insights and stay one step ahead.
+        </p>
+        <button
+          class="flex gap-2 items-center bg-neutral-800 text-black py-2 px-5 lg:text-xs xl:text-sm rounded-full w-fit"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M35.42 188.21l207.75 269.46a16.17 16.17 0 0025.66 0l207.75-269.46a16.52 16.52 0 00.95-18.75L407.06 55.71A16.22 16.22 0 00393.27 48H118.73a16.22 16.22 0 00-13.79 7.71L34.47 169.46a16.52 16.52 0 00.95 18.75zM48 176h416"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="32"
+            />
+            <path
+              d="M400 64l-48 112-96-128M112 64l48 112 96-128m0 400l-96-272m96 272l96-272"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="32"
+            />
+          </svg>
+          <span
+            class="text-white"
+          >
+            Unlock
+          </span>
+           Your Financial Foresight
+        </button>
+      </div>
+      <div
+        class="grid grid-cols-3 lg:gap-8 xl:gap-16 lg:pl-20 xl:pl-32 relative"
+      >
+        <hr
+          class="absolute z-0 top-[65px] border-white/20 w-full"
+        />
+        <div
+          class="flex flex-col gap-4"
+        >
+          <h4
+            class="text-white text-xl"
+          >
+            Q1 2024
+          </h4>
+          <div
+            class="flex z-10 items-center justify-center bg-white text-black text-xl rounded-full w-11 h-11"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M15.5 12a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z"
+              />
+              <path
+                d="M12 3.5c3.432 0 6.124 1.534 8.054 3.241 1.926 1.703 3.132 3.61 3.616 4.46a1.6 1.6 0 0 1 0 1.598c-.484.85-1.69 2.757-3.616 4.461-1.929 1.706-4.622 3.24-8.054 3.24-3.432 0-6.124-1.534-8.054-3.24C2.02 15.558.814 13.65.33 12.8a1.6 1.6 0 0 1 0-1.598c.484-.85 1.69-2.757 3.616-4.462C5.875 5.034 8.568 3.5 12 3.5ZM1.633 11.945a.115.115 0 0 0-.017.055c.001.02.006.039.017.056.441.774 1.551 2.527 3.307 4.08C6.691 17.685 9.045 19 12 19c2.955 0 5.31-1.315 7.06-2.864 1.756-1.553 2.866-3.306 3.307-4.08a.111.111 0 0 0 .017-.056.111.111 0 0 0-.017-.056c-.441-.773-1.551-2.527-3.307-4.08C17.309 6.315 14.955 5 12 5 9.045 5 6.69 6.314 4.94 7.865c-1.756 1.552-2.866 3.306-3.307 4.08Z"
+              />
+            </svg>
+          </div>
+          <p
+            class="text-white text-sm"
+          >
+            Diversify investments across equities, bonds, and real estate to mitigate risk and promote long-term growth.
+          </p>
+        </div>
+        <div
+          class="flex flex-col gap-4"
+        >
+          <h4
+            class="text-neutral-500 text-xl"
+          >
+            Q2 2024
+          </h4>
+          <div
+            class="flex z-10 items-center justify-center bg-zinc-800 text-white text-xl rounded-full w-11 h-11"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                id="Lock"
+              >
+                <g>
+                  <path
+                    d="M17.44,9.33h-1.1V6.4a4.34,4.34,0,0,0-8.68,0V9.33H6.56a2.5,2.5,0,0,0-2.5,2.5v7.61a2.507,2.507,0,0,0,2.5,2.5H17.44a2.507,2.507,0,0,0,2.5-2.5V11.83A2.5,2.5,0,0,0,17.44,9.33ZM8.66,6.4a3.34,3.34,0,0,1,6.68,0V9.33H8.66ZM18.94,19.44a1.511,1.511,0,0,1-1.5,1.5H6.56a1.511,1.511,0,0,1-1.5-1.5V11.83a1.5,1.5,0,0,1,1.5-1.5H17.44a1.5,1.5,0,0,1,1.5,1.5Z"
+                  />
+                  <path
+                    d="M13,14.95a.984.984,0,0,1-.5.86v1.5a.5.5,0,0,1-1,0v-1.5a.984.984,0,0,1-.5-.86,1,1,0,0,1,2,0Z"
+                  />
+                </g>
+              </g>
+            </svg>
+          </div>
+        </div>
+        <div
+          class="flex flex-col gap-4"
+        >
+          <h4
+            class="text-neutral-500 text-xl"
+          >
+            Q3 2024
+          </h4>
+          <div
+            class="flex z-10 items-center justify-center bg-zinc-800 text-white text-xl rounded-full w-11 h-11"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                id="Lock"
+              >
+                <g>
+                  <path
+                    d="M17.44,9.33h-1.1V6.4a4.34,4.34,0,0,0-8.68,0V9.33H6.56a2.5,2.5,0,0,0-2.5,2.5v7.61a2.507,2.507,0,0,0,2.5,2.5H17.44a2.507,2.507,0,0,0,2.5-2.5V11.83A2.5,2.5,0,0,0,17.44,9.33ZM8.66,6.4a3.34,3.34,0,0,1,6.68,0V9.33H8.66ZM18.94,19.44a1.511,1.511,0,0,1-1.5,1.5H6.56a1.511,1.511,0,0,1-1.5-1.5V11.83a1.5,1.5,0,0,1,1.5-1.5H17.44a1.5,1.5,0,0,1,1.5,1.5Z"
+                  />
+                  <path
+                    d="M13,14.95a.984.984,0,0,1-.5.86v1.5a.5.5,0,0,1-1,0v-1.5a.984.984,0,0,1-.5-.86,1,1,0,0,1,2,0Z"
+                  />
+                </g>
+              </g>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex flex-col gap-12 lg:px-24 xl:px-56 py-40"
+    >
+      <div
+        class="grid grid-cols-2 gap-6 bg-black border rounded-xl px-16 py-32"
+      >
+        <div
+          class="flex flex-col"
+        >
+          <h2
+            class="text-white lg:text-2xl xl:text-4xl mb-8"
+          >
+            Asset Allocation
+          </h2>
+          <p
+            class="text-white lg:text-sm xl:text-xl"
+          >
+            To achieve your financial freedom, we have designed an asset allocation strategy that balances risk and growth, guiding your investments toward your retirement and financial goals
+          </p>
+        </div>
+        <div
+          class="flex gap-12 items-center"
+        >
+          <div
+            class="flex"
+          >
+            <div
+              aria-valuemax="100"
+              aria-valuemin="0"
+              aria-valuenow="75"
+              aria-valuetext="Your Portfolio"
+              class="flex flex-col justify-center gap-1 max-w-fit items-center"
+              id="react-aria-:r0:"
+              role="progressbar"
+            >
+              <div
+                class="relative block"
+              >
+                <svg
+                  class="z-0 relative overflow-hidden text-primary w-8 h-8 lg:w-40 lg:h-40 xl:w-48 xl:h-48 drop-shadow-sm"
+                  fill="none"
+                  stroke-width="2"
+                  viewBox="0 0 32 32"
+                >
+                  <circle
+                    class="h-full stroke-white/10"
+                    cx="16"
+                    cy="16"
+                    r="14"
+                    role="presentation"
+                    stroke-dasharray="87.96459430051421 87.96459430051421"
+                    stroke-dashoffset="0"
+                    stroke-linecap="round"
+                    transform="rotate(-90 16 16)"
+                  />
+                  <circle
+                    class="h-full transition-all !duration-500 stroke-white"
+                    cx="16"
+                    cy="16"
+                    r="14"
+                    role="presentation"
+                    stroke-dasharray="87.96459430051421 87.96459430051421"
+                    stroke-dashoffset="87.96459430051421"
+                    stroke-linecap="round"
+                    transform="rotate(-90 16 16)"
+                  />
+                </svg>
+                <span
+                  class="absolute inset-0 flex items-center justify-center text-[0.5rem] xl:text-xl lg:text-sm font-semibold text-white"
+                >
+                  Your Portfolio
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex flex-col"
+          >
+            <span
+              class="w-9 h-1 bg-white rounded-full mb-1"
+            />
+            <span
+              class="text-lg text-neutral-500 mb-1"
+            >
+              Equity
+            </span>
+            <span
+              class="text-white xl:text-3xl lg:text-xl"
+            >
+              75 
+              <span
+                class="text-sm text-neutral-500"
+              >
+                 %
+              </span>
+            </span>
+          </div>
+          <div
+            class="flex flex-col"
+          >
+            <span
+              class="w-9 h-1 bg-neutral-500 rounded-full mb-1"
+            />
+            <span
+              class="text-lg text-neutral-500 mb-1"
+            >
+              Cash
+            </span>
+            <span
+              class="text-white xl:text-3xl lg:text-xl"
+            >
+              25 
+              <span
+                class="text-sm text-neutral-500"
+              >
+                 %
+              </span>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex flex-col"
+      >
+        <h3
+          class="text-3xl text-black mb-4"
+        >
+          Product Allocation
+        </h3>
+        <div
+          class="grid grid-cols-products-table-header w-full mb-3 px-6"
+        >
+          <span
+            class="text-sm text-neutral-500 font-light"
+          >
+            Fund name
+          </span>
+          <span
+            class="text-sm text-neutral-500 font-light"
+          >
+            Ticker
+          </span>
+          <span
+            class="text-sm text-neutral-500 font-light"
+          >
+            Allocation
+          </span>
+        </div>
+        <div
+          class="px-2 group is-splitted flex flex-col gap-2 w-full"
+          data-orientation="vertical"
+        >
+          <div
+            aria-label="Accordion 1"
+            class="group-[.is-splitted]:px-4 group-[.is-splitted]:bg-content1 group-[.is-splitted]:shadow-medium group-[.is-splitted]:rounded-medium"
+            data-open="true"
+          >
+            <h2
+              data-open="true"
+            >
+              <button
+                aria-controls=":r4:"
+                aria-expanded="true"
+                class="flex py-4 w-full h-full gap-3 items-center tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-opacity"
+                data-open="true"
+                id=":r3:"
+                type="button"
+              >
+                <div
+                  class="flex-1 flex flex-col text-start"
+                >
+                  <span
+                    class="text-foreground text-large"
+                    data-open="true"
+                  >
+                    <div
+                      class="grid grid-cols-products-table w-full"
+                    >
+                      <p
+                        class="text-black"
+                      >
+                        IShares Core S&P 500 ETF
+                      </p>
+                      <span
+                        class="text-neutral-500"
+                      >
+                        IVV
+                      </span>
+                      <div
+                        class="flex gap-1 items-center"
+                      >
+                        <span>
+                          45.56%
+                        </span>
+                        <div
+                          class="flex w-[100px] px-3"
+                        >
+                          <div
+                            aria-label="progress-accordion-1"
+                            aria-valuemax="100"
+                            aria-valuemin="0"
+                            aria-valuenow="45.56"
+                            aria-valuetext="46%"
+                            class="flex flex-col gap-2 w-full"
+                            id="react-aria-:r5:"
+                            role="progressbar"
+                          >
+                            <div
+                              class="z-0 relative bg-default-300/50 overflow-hidden h-3 rounded-full"
+                            >
+                              <div
+                                class="h-full bg-success rounded-full transition-transform !duration-500"
+                                style="transform: translateX(-100%);"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <span
+                        class="text-sm self-center justify-self-end"
+                      >
+                        See Details
+                      </span>
+                    </div>
+                  </span>
+                </div>
+                <span
+                  aria-hidden="true"
+                  class="text-default-400 transition-transform rotate-0 data-[open=true]:-rotate-90 rtl:-rotate-180 rtl:data-[open=true]:-rotate-90"
+                  data-open="true"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="none"
+                    focusable="false"
+                    height="1em"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M15.5 19l-7-7 7-7"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="1.5"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </h2>
+            <section
+              style="overflow-y: hidden; will-change: auto; opacity: 1; height: auto;"
+            >
+              <div
+                aria-labelledby=":r3:"
+                class="py-2"
+                data-open="true"
+                id=":r4:"
+                role="region"
+              >
+                <div
+                  class="bg-neutral-400/10 w-full text-sm text-neutral-500 p-3 mb-4 rounded-lg"
+                >
+                  The iShares Core S&P 500 ETF is one of the many ETFs offered by BlackRock under the iShares brand. An ETF is an investment fund that is traded on an exchange, much like individual stocks. It provides investors with the opportunity to invest in a broad range of stocks that make up the S&P 500, allowing them to diversify their portfolios and gain exposure to the performance of this inde
+                </div>
+              </div>
+            </section>
+          </div>
+          <div
+            aria-label="Accordion 2"
+            class="group-[.is-splitted]:px-4 group-[.is-splitted]:bg-content1 group-[.is-splitted]:shadow-medium group-[.is-splitted]:rounded-medium"
+          >
+            <h2>
+              <button
+                aria-expanded="false"
+                class="flex py-4 w-full h-full gap-3 items-center tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-opacity"
+                id=":r9:"
+                type="button"
+              >
+                <div
+                  class="flex-1 flex flex-col text-start"
+                >
+                  <span
+                    class="text-foreground text-large"
+                  >
+                    <div
+                      class="grid grid-cols-products-table w-full"
+                    >
+                      <p
+                        class="text-black"
+                      >
+                        iShares Edge MSCI USA Momentum Factor ETF
+                      </p>
+                      <span
+                        class="text-neutral-500"
+                      >
+                        MTUM
+                      </span>
+                      <div
+                        class="flex gap-1 items-center"
+                      >
+                        <span>
+                          35.63%
+                        </span>
+                        <div
+                          class="flex w-[100px] px-3"
+                        >
+                          <div
+                            aria-label="progress-accordion-1"
+                            aria-valuemax="100"
+                            aria-valuemin="0"
+                            aria-valuenow="35.63"
+                            aria-valuetext="36%"
+                            class="flex flex-col gap-2 w-full"
+                            id="react-aria-:rb:"
+                            role="progressbar"
+                          >
+                            <div
+                              class="z-0 relative bg-default-300/50 overflow-hidden h-3 rounded-full"
+                            >
+                              <div
+                                class="h-full bg-success rounded-full transition-transform !duration-500"
+                                style="transform: translateX(-100%);"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <span
+                        class="text-sm self-center justify-self-end"
+                      >
+                        See Details
+                      </span>
+                    </div>
+                  </span>
+                </div>
+                <span
+                  aria-hidden="true"
+                  class="text-default-400 transition-transform rotate-0 data-[open=true]:-rotate-90 rtl:-rotate-180 rtl:data-[open=true]:-rotate-90"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="none"
+                    focusable="false"
+                    height="1em"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M15.5 19l-7-7 7-7"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="1.5"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </h2>
+          </div>
+          <div
+            aria-label="Accordion 3"
+            class="group-[.is-splitted]:px-4 group-[.is-splitted]:bg-content1 group-[.is-splitted]:shadow-medium group-[.is-splitted]:rounded-medium"
+          >
+            <h2>
+              <button
+                aria-expanded="false"
+                class="flex py-4 w-full h-full gap-3 items-center tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-opacity"
+                id=":re:"
+                type="button"
+              >
+                <div
+                  class="flex-1 flex flex-col text-start"
+                >
+                  <span
+                    class="text-foreground text-large"
+                  >
+                    <div
+                      class="grid grid-cols-products-table w-full"
+                    >
+                      <p
+                        class="text-black"
+                      >
+                        Invesco 5&P MidCap Momentum ETF
+                      </p>
+                      <span
+                        class="text-neutral-500"
+                      >
+                        XMMO
+                      </span>
+                      <div
+                        class="flex gap-1 items-center"
+                      >
+                        <span>
+                          15.53%
+                        </span>
+                        <div
+                          class="flex w-[100px] px-3"
+                        >
+                          <div
+                            aria-label="progress-accordion-1"
+                            aria-valuemax="100"
+                            aria-valuemin="0"
+                            aria-valuenow="15.53"
+                            aria-valuetext="16%"
+                            class="flex flex-col gap-2 w-full"
+                            id="react-aria-:rg:"
+                            role="progressbar"
+                          >
+                            <div
+                              class="z-0 relative bg-default-300/50 overflow-hidden h-3 rounded-full"
+                            >
+                              <div
+                                class="h-full bg-success rounded-full transition-transform !duration-500"
+                                style="transform: translateX(-100%);"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <span
+                        class="text-sm self-center justify-self-end"
+                      >
+                        See Details
+                      </span>
+                    </div>
+                  </span>
+                </div>
+                <span
+                  aria-hidden="true"
+                  class="text-default-400 transition-transform rotate-0 data-[open=true]:-rotate-90 rtl:-rotate-180 rtl:data-[open=true]:-rotate-90"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="none"
+                    focusable="false"
+                    height="1em"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M15.5 19l-7-7 7-7"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="1.5"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </h2>
+          </div>
+          <div
+            aria-label="Accordion 4"
+            class="group-[.is-splitted]:px-4 group-[.is-splitted]:bg-content1 group-[.is-splitted]:shadow-medium group-[.is-splitted]:rounded-medium"
+          >
+            <h2>
+              <button
+                aria-expanded="false"
+                class="flex py-4 w-full h-full gap-3 items-center tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-opacity"
+                id=":rj:"
+                type="button"
+              >
+                <div
+                  class="flex-1 flex flex-col text-start"
+                >
+                  <span
+                    class="text-foreground text-large"
+                  >
+                    <div
+                      class="grid grid-cols-products-table w-full"
+                    >
+                      <p
+                        class="text-black"
+                      >
+                        IShares Core S&P 500 ETF
+                      </p>
+                      <span
+                        class="text-neutral-500"
+                      >
+                        IVV
+                      </span>
+                      <div
+                        class="flex gap-1 items-center"
+                      >
+                        <span>
+                          45.56%
+                        </span>
+                        <div
+                          class="flex w-[100px] px-3"
+                        >
+                          <div
+                            aria-label="progress-accordion-1"
+                            aria-valuemax="100"
+                            aria-valuemin="0"
+                            aria-valuenow="45.56"
+                            aria-valuetext="46%"
+                            class="flex flex-col gap-2 w-full"
+                            id="react-aria-:rl:"
+                            role="progressbar"
+                          >
+                            <div
+                              class="z-0 relative bg-default-300/50 overflow-hidden h-3 rounded-full"
+                            >
+                              <div
+                                class="h-full bg-success rounded-full transition-transform !duration-500"
+                                style="transform: translateX(-100%);"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <span
+                        class="text-sm self-center justify-self-end"
+                      >
+                        See Details
+                      </span>
+                    </div>
+                  </span>
+                </div>
+                <span
+                  aria-hidden="true"
+                  class="text-default-400 transition-transform rotate-0 data-[open=true]:-rotate-90 rtl:-rotate-180 rtl:data-[open=true]:-rotate-90"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="none"
+                    focusable="false"
+                    height="1em"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M15.5 19l-7-7 7-7"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="1.5"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </h2>
+          </div>
+          <div
+            aria-label="Accordion 5"
+            class="group-[.is-splitted]:px-4 group-[.is-splitted]:bg-content1 group-[.is-splitted]:shadow-medium group-[.is-splitted]:rounded-medium"
+          >
+            <h2>
+              <button
+                aria-expanded="false"
+                class="flex py-4 w-full h-full gap-3 items-center tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-opacity"
+                id=":ro:"
+                type="button"
+              >
+                <div
+                  class="flex-1 flex flex-col text-start"
+                >
+                  <span
+                    class="text-foreground text-large"
+                  >
+                    <div
+                      class="grid grid-cols-products-table w-full"
+                    >
+                      <p
+                        class="text-black"
+                      >
+                        IShares Core S&P 500 ETF
+                      </p>
+                      <span
+                        class="text-neutral-500"
+                      >
+                        IVV
+                      </span>
+                      <div
+                        class="flex gap-1 items-center"
+                      >
+                        <span>
+                          45.56%
+                        </span>
+                        <div
+                          class="flex w-[100px] px-3"
+                        >
+                          <div
+                            aria-label="progress-accordion-1"
+                            aria-valuemax="100"
+                            aria-valuemin="0"
+                            aria-valuenow="45.56"
+                            aria-valuetext="46%"
+                            class="flex flex-col gap-2 w-full"
+                            id="react-aria-:rq:"
+                            role="progressbar"
+                          >
+                            <div
+                              class="z-0 relative bg-default-300/50 overflow-hidden h-3 rounded-full"
+                            >
+                              <div
+                                class="h-full bg-success rounded-full transition-transform !duration-500"
+                                style="transform: translateX(-100%);"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <span
+                        class="text-sm self-center justify-self-end"
+                      >
+                        See Details
+                      </span>
+                    </div>
+                  </span>
+                </div>
+                <span
+                  aria-hidden="true"
+                  class="text-default-400 transition-transform rotate-0 data-[open=true]:-rotate-90 rtl:-rotate-180 rtl:data-[open=true]:-rotate-90"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="none"
+                    focusable="false"
+                    height="1em"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M15.5 19l-7-7 7-7"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="1.5"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </h2>
+          </div>
+          <div
+            aria-label="Accordion 6"
+            class="group-[.is-splitted]:px-4 group-[.is-splitted]:bg-content1 group-[.is-splitted]:shadow-medium group-[.is-splitted]:rounded-medium"
+          >
+            <h2>
+              <button
+                aria-expanded="false"
+                class="flex py-4 w-full h-full gap-3 items-center tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-opacity"
+                id=":rt:"
+                type="button"
+              >
+                <div
+                  class="flex-1 flex flex-col text-start"
+                >
+                  <span
+                    class="text-foreground text-large"
+                  >
+                    <div
+                      class="grid grid-cols-products-table w-full"
+                    >
+                      <p
+                        class="text-black"
+                      >
+                        Cash (USD)
+                      </p>
+                      <span
+                        class="text-neutral-500"
+                      >
+                        USD
+                      </span>
+                      <div
+                        class="flex gap-1 items-center"
+                      >
+                        <span>
+                          10.00%
+                        </span>
+                        <div
+                          class="flex w-[100px] px-3"
+                        >
+                          <div
+                            aria-label="progress-accordion-1"
+                            aria-valuemax="100"
+                            aria-valuemin="0"
+                            aria-valuenow="10"
+                            aria-valuetext="10%"
+                            class="flex flex-col gap-2 w-full"
+                            id="react-aria-:rv:"
+                            role="progressbar"
+                          >
+                            <div
+                              class="z-0 relative bg-default-300/50 overflow-hidden h-3 rounded-full"
+                            >
+                              <div
+                                class="h-full bg-success rounded-full transition-transform !duration-500"
+                                style="transform: translateX(-100%);"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <span
+                        class="text-sm self-center justify-self-end"
+                      >
+                        See Details
+                      </span>
+                    </div>
+                  </span>
+                </div>
+                <span
+                  aria-hidden="true"
+                  class="text-default-400 transition-transform rotate-0 data-[open=true]:-rotate-90 rtl:-rotate-180 rtl:data-[open=true]:-rotate-90"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="none"
+                    focusable="false"
+                    height="1em"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M15.5 19l-7-7 7-7"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="1.5"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex flex-col bg-testimonial-bg-image bg-cover bg-center bg-no-repeat w-full min-h-[700px] lg:px-24 xl:px-52 py-36"
+    >
+      <div
+        class="flex text-white text-6xl justify-end mb-[44px]"
+      >
+        <svg
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 24 24"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M19.4167 6.67891C20.4469 7.77257 21.0001 9 21.0001 10.9897C21.0001 14.4891 18.5436 17.6263 14.9695 19.1768L14.0768 17.7992C17.4121 15.9946 18.0639 13.6539 18.3245 12.178C17.7875 12.4557 17.0845 12.5533 16.3954 12.4895C14.591 12.3222 13.1689 10.8409 13.1689 9C13.1689 7.067 14.7359 5.5 16.6689 5.5C17.742 5.5 18.7681 5.99045 19.4167 6.67891ZM9.41669 6.67891C10.4469 7.77257 11.0001 9 11.0001 10.9897C11.0001 14.4891 8.54359 17.6263 4.96951 19.1768L4.07682 17.7992C7.41206 15.9946 8.06392 13.6539 8.32447 12.178C7.78747 12.4557 7.08452 12.5533 6.39539 12.4895C4.59102 12.3222 3.16895 10.8409 3.16895 9C3.16895 7.067 4.73595 5.5 6.66895 5.5C7.742 5.5 8.76814 5.99045 9.41669 6.67891Z"
+          />
+        </svg>
+      </div>
+      <div
+        class="text-white text-6xl justify-center items-center font-light mb-[64px]"
+      >
+        The best investment you can make is in yourself, and a great way to do that is by taking a vacation to refresh your body and mind.
+      </div>
+      <span
+        class="flex text-white text-sm"
+      >
+        Warren Buffett
+      </span>
+    </div>
+    <div
+      class="flex flex-col items-center justify-center bg-black w-full lg:px-24 xl:px-40 py-[100px]"
+    >
+      <div
+        class="flex justify-center text-white text-5xl mb-[70px]"
+      >
+        Action Steps
+      </div>
+      <div
+        class="grid grid-cols-2 gap-[50px]"
+      >
+        <div
+          class="flex flex-col gap-[50px]"
+        >
+          <div
+            class="flex gap-3"
+          >
+            <div
+              class="text-white text-3xl mt-[2px]"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 576 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z"
+                />
+              </svg>
+            </div>
+            <div
+              class="flex flex-col"
+            >
+              <h2
+                class="text-white text-3xl mb-[12px]"
+              >
+                Emergency Fund
+              </h2>
+              <p
+                class="text-white text-sm"
+              >
+                Prioritize building an emergency fund with six months worth of living expenses in a high-yield savings account.
+              </p>
+            </div>
+          </div>
+          <div
+            class="flex gap-3"
+          >
+            <div
+              class="text-white text-3xl mt-[2px]"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 576 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z"
+                />
+              </svg>
+            </div>
+            <div
+              class="flex flex-col"
+            >
+              <h2
+                class="text-white text-3xl mb-[12px]"
+              >
+                Regular Review
+              </h2>
+              <p
+                class="text-white text-sm"
+              >
+                Periodically review and rebalance the portfolio to maintain the desired asset allocation.
+              </p>
+            </div>
+          </div>
+          <div
+            class="flex gap-3"
+          >
+            <div
+              class="text-white text-3xl mt-[2px]"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M3.5 8a5.5 5.5 0 1 1 8.596 4.547 9.005 9.005 0 0 1 5.9 8.18.751.751 0 0 1-1.5.045 7.5 7.5 0 0 0-14.993 0 .75.75 0 0 1-1.499-.044 9.005 9.005 0 0 1 5.9-8.181A5.496 5.496 0 0 1 3.5 8ZM9 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8Zm8.29 4c-.148 0-.292.01-.434.03a.75.75 0 1 1-.212-1.484 4.53 4.53 0 0 1 3.38 8.097 6.69 6.69 0 0 1 3.956 6.107.75.75 0 0 1-1.5 0 5.193 5.193 0 0 0-3.696-4.972l-.534-.16v-1.676l.41-.209A3.03 3.03 0 0 0 17.29 8Z"
+                />
+              </svg>
+            </div>
+            <div
+              class="flex flex-col"
+            >
+              <h2
+                class="text-white text-3xl mb-[12px]"
+              >
+                Retirement Accounts
+              </h2>
+              <p
+                class="text-white text-sm"
+              >
+                Maximize contributions to 401(k) and IRA accounts to take advantage of tax benefits and long-term growth potential.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex flex-col gap-[50px]"
+        >
+          <div
+            class="flex gap-3"
+          >
+            <div
+              class="text-white text-3xl mt-[2px]"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M12 2.5c-3.81 0-6.5 2.743-6.5 6.119 0 1.536.632 2.572 1.425 3.56.172.215.347.422.527.635l.096.112c.21.25.427.508.63.774.404.531.783 1.128.995 1.834a.75.75 0 0 1-1.436.432c-.138-.46-.397-.89-.753-1.357a18.111 18.111 0 0 0-.582-.714l-.092-.11c-.18-.212-.37-.436-.555-.667C4.87 12.016 4 10.651 4 8.618 4 4.363 7.415 1 12 1s8 3.362 8 7.619c0 2.032-.87 3.397-1.755 4.5-.185.23-.375.454-.555.667l-.092.109c-.21.248-.405.481-.582.714-.356.467-.615.898-.753 1.357a.751.751 0 0 1-1.437-.432c.213-.706.592-1.303.997-1.834.202-.266.419-.524.63-.774l.095-.112c.18-.213.355-.42.527-.634.793-.99 1.425-2.025 1.425-3.561C18.5 5.243 15.81 2.5 12 2.5ZM8.75 18h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1 0-1.5Zm.75 3.75a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 0 1.5h-3.5a.75.75 0 0 1-.75-.75Z"
+                />
+              </svg>
+            </div>
+            <div
+              class="flex flex-col"
+            >
+              <h2
+                class="text-white text-3xl mb-[12px]"
+              >
+                Diversified Portfolio
+              </h2>
+              <p
+                class="text-white text-sm"
+              >
+                Invest in a diversified mix of individual stocks, ETFs, and mutual funds based on risk tolerance and time horizon.
+              </p>
+            </div>
+          </div>
+          <div
+            class="flex gap-3"
+          >
+            <div
+              class="text-white text-3xl mt-[2px]"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 576 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z"
+                />
+              </svg>
+            </div>
+            <div
+              class="flex flex-col"
+            >
+              <h2
+                class="text-white text-3xl mb-[12px]"
+              >
+                529 College Savings Plans
+              </h2>
+              <p
+                class="text-white text-sm"
+              >
+                Establish 529 plans to save for childrens education, taking advantage of potential tax benefits.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex flex-col bg-portfolio-stats-bg-image bg-cover bg-no-repeat w-full min-h-[700px] lg:px-24 xl:px-40 py-[100px]"
+    >
+      <div
+        class="flex justify-center text-white text-5xl mb-[70px]"
+      >
+        Your Portfolio Stats
+      </div>
+      <div
+        class="flex flex-col p-[16px] backdrop-blur-md bg-black-500/30 border border-white/20 rounded-xl mb-[40px]"
+      >
+        <span
+          class="text-xs text-zinc-400 mb-[16px]"
+        >
+          As of Jan, 2023
+        </span>
+        <div
+          class="flex items-center gap-3 pb-[16px]"
+        >
+          <h5
+            class="text-lg text-white"
+          >
+            95% probability (6 months)
+          </h5>
+          <div
+            class="flex gap-1"
+          >
+            <div
+              class="flex items-center justify-center py-[4px] px-[8px] rounded-lg bg-red-950/30 text-red-400"
+            >
+              -17.76%
+            </div>
+            <div
+              class="flex items-center justify-center py-[4px] px-[8px] rounded-lg bg-green-950/30 text-green-500"
+            >
+              +26.76%
+            </div>
+          </div>
+        </div>
+        <hr
+          class="border-white/20"
+        />
+        <div
+          class="flex items-center gap-3 py-[16px]"
+        >
+          <h5
+            class="text-lg text-white"
+          >
+            Potential Annual Return
+          </h5>
+          <div
+            class="flex gap-1"
+          >
+            <div
+              class="flex items-center justify-center py-[4px] px-[8px] rounded-lg bg-green-950/30 text-green-500"
+            >
+              10.23%
+            </div>
+          </div>
+        </div>
+        <hr
+          class="border-white/20"
+        />
+        <div
+          class="flex items-center gap-3 pt-[16px]"
+        >
+          <h5
+            class="text-lg text-white"
+          >
+            Portfolio Yield
+          </h5>
+          <div
+            class="flex gap-1"
+          >
+            <div
+              class="flex items-center justify-center py-[4px] px-[8px] rounded-lg bg-green-950/30 text-green-500"
+            >
+              3.4%
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="grid grid-cols-2 gap-7 mb-[40px]"
+      >
+        <div
+          class="flex flex-col p-[16px] backdrop-blur-md bg-black-500/30 border border-white/20 rounded-xl"
+        >
+          <span
+            class="text-xs text-zinc-400 mb-[16px]"
+          >
+            As of Jan, 2023
+          </span>
+          <div
+            class="flex items-center gap-3 pb-[16px]"
+          >
+            <h5
+              class="text-lg text-white"
+            >
+              If a 2013 bull market were to happen again
+            </h5>
+          </div>
+          <div
+            class="flex items-center gap-3 py-[16px]"
+          >
+            <h5
+              class="text-lg text-white"
+            >
+              S&P 500
+            </h5>
+            <div
+              class="flex gap-1"
+            >
+              <div
+                class="flex items-center justify-center py-[4px] px-[8px] rounded-lg bg-green-950/30 text-green-500"
+              >
+                10.23%
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex items-center gap-3 py-[16px]"
+          >
+            <h5
+              class="text-lg text-white"
+            >
+              Trailblazer
+            </h5>
+            <div
+              class="flex gap-1"
+            >
+              <div
+                class="flex items-center justify-center py-[4px] px-[8px] rounded-lg bg-green-950/30 text-green-500"
+              >
+                10.23%
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex flex-col p-[16px] backdrop-blur-md bg-black-500/30 border border-white/20 rounded-xl"
+        >
+          <span
+            class="text-xs text-zinc-400 mb-[16px]"
+          >
+            As of Jan, 2023
+          </span>
+          <div
+            class="flex items-center gap-3 pb-[16px]"
+          >
+            <h5
+              class="text-lg text-white"
+            >
+              If a 2008 bear market were to happen again
+            </h5>
+          </div>
+          <div
+            class="flex items-center gap-3 py-[16px]"
+          >
+            <h5
+              class="text-lg text-white"
+            >
+              S&P 500
+            </h5>
+            <div
+              class="flex gap-1"
+            >
+              <div
+                class="flex items-center justify-center py-[4px] px-[8px] rounded-lg bg-red-950/30 text-red-400"
+              >
+                10.23%
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex items-center gap-3 py-[16px]"
+          >
+            <h5
+              class="text-lg text-white"
+            >
+              Trailblazer
+            </h5>
+            <div
+              class="flex gap-1"
+            >
+              <div
+                class="flex items-center justify-center py-[4px] px-[8px] rounded-lg bg-red-950/30 text-red-400"
+              >
+                10.23%
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex flex-col"
+      >
+        <div
+          class="flex items-center justify-between mb-[16px]"
+        >
+          <h5
+            class="text-lg text-white"
+          >
+            Top Holdings
+          </h5>
+          <span
+            class="text-xs text-zinc-400"
+          >
+            As of Jan, 2023
+          </span>
+        </div>
+        <div
+          class="grid grid-cols-6 gap-2 p-[16px] backdrop-blur-md bg-black-500/30 border border-white/20 rounded-xl"
+        >
+          <img
+            alt="apple-holding"
+            data-nimg="1"
+            decoding="async"
+            height="40"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+            style="color: transparent;"
+            width="40"
+          />
+          <img
+            alt="i-shares-holding"
+            data-nimg="1"
+            decoding="async"
+            height="40"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+            style="color: transparent;"
+            width="40"
+          />
+          <img
+            alt="disney-holding"
+            data-nimg="1"
+            decoding="async"
+            height="40"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+            style="color: transparent;"
+            width="40"
+          />
+          <img
+            alt="spotify-holding"
+            data-nimg="1"
+            decoding="async"
+            height="40"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+            style="color: transparent;"
+            width="40"
+          />
+          <img
+            alt="air-bnb-holding"
+            data-nimg="1"
+            decoding="async"
+            height="40"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+            style="color: transparent;"
+            width="40"
+          />
+          <img
+            alt="microsoft-holding"
+            data-nimg="1"
+            decoding="async"
+            height="40"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+            style="color: transparent;"
+            width="40"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex w-full"
+    >
+      <div
+        class="flex flex-col w-1/2 lg:pl-24 xl:pl-40 lg:pr-12 xl:pr-24 justify-center"
+      >
+        <img
+          alt="pass-rate"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <h3
+          class="lg:mt-[12px] xl:mt-[24px] lg:text-3xl xl:text-5xl"
+        >
+          Conclusion
+        </h3>
+        <p
+          class="lg:mt-[12px] xl:mt-[24px] lg:text-sm xl:text-xl"
+        >
+          This financial planning report outlines a customized plan to help John and his family work towards their financial goals. By following the recommended asset allocation and investment strategy, they can achieve financial security, a comfortable retirement, and education savings for their children.
+        </p>
+        <p
+          class="lg:mt-[12px] xl:mt-[24px] text-sm text-zinc-500"
+        >
+          Please note that this is a fictional sample report and should not be used for any actual financial planning purposes. Real financial planning should be done in consultation with a qualified financial advisor to consider individual circumstances and goals.
+        </p>
+        <button
+          class="flex gap-1 text-black py-2 px-5 text-sm items-center mt-[24px]"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M336 176h40a40 40 0 0140 40v208a40 40 0 01-40 40H136a40 40 0 01-40-40V216a40 40 0 0140-40h40"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="32"
+            />
+            <path
+              d="M176 272l80 80 80-80M256 48v288"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="32"
+            />
+          </svg>
+          Download
+        </button>
+      </div>
+      <div
+        class="flex flex-col w-1/2"
+      >
+        <img
+          alt="conclusion"
+          class="w-full"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+      </div>
+    </div>
+    <div
+      class="flex flex-col"
+    >
+      <div
+        class="flex flex-col justify-center bg-footer-bg-image bg-cover bg-no-repeat w-full min-h-[700px]"
+      >
+        <div
+          class="flex items-center flex-col w-full h-full mt-auto"
+        >
+          <h2
+            class="text-white text-5xl text-center max-w-[550px] mb-[24px]"
+          >
+            Get the Most from Your Personalized Monthly Financial Report
+          </h2>
+          <button
+            class="flex gap-2 items-center bg-zinc-800 text-white py-2 px-5 text-xs rounded-full"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M35.42 188.21l207.75 269.46a16.17 16.17 0 0025.66 0l207.75-269.46a16.52 16.52 0 00.95-18.75L407.06 55.71A16.22 16.22 0 00393.27 48H118.73a16.22 16.22 0 00-13.79 7.71L34.47 169.46a16.52 16.52 0 00.95 18.75zM48 176h416"
+                fill="none"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="32"
+              />
+              <path
+                d="M400 64l-48 112-96-128M112 64l48 112 96-128m0 400l-96-272m96 272l96-272"
+                fill="none"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="32"
+              />
+            </svg>
+            Unlock Full Personalized Financial Report
+          </button>
+        </div>
+        <div
+          class="flex justify-center mt-auto"
+        >
+          <img
+            alt="footer-numbers"
+            data-nimg="1"
+            decoding="async"
+            height="40"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+            style="color: transparent;"
+            width="40"
+          />
+        </div>
+      </div>
+      <div
+        class="flex flex-col bg-black w-full lg:px-24 xl:px-40 py-[100px]"
+      >
+        <div
+          class="grid grid-cols-5 mb-[80px]"
+        >
+          <div
+            class="flex flex-col"
+          >
+            <img
+              alt="footer-logo"
+              data-nimg="1"
+              decoding="async"
+              height="40"
+              loading="lazy"
+              src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+              srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+              style="color: transparent;"
+              width="40"
+            />
+            <div
+              class="flex gap-2 mt-[32px]"
+            >
+              <a
+                class="text-white text-xl"
+                href="#"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 320 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"
+                  />
+                </svg>
+              </a>
+              <a
+                class="text-white text-xl"
+                href="#"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 448 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"
+                  />
+                </svg>
+              </a>
+              <a
+                class="text-white text-xl"
+                href="#"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 448 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"
+                  />
+                </svg>
+              </a>
+              <a
+                class="text-white text-xl"
+                href="#"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 512 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"
+                  />
+                </svg>
+              </a>
+              <a
+                class="text-white text-xl"
+                href="#"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 448 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex text-xs text-white gap-2 mt-[16px]"
+            >
+              <span>
+                English
+              </span>
+              <span>
+                |
+              </span>
+              <span>
+                عربي
+              </span>
+            </div>
+          </div>
+          <div
+            class="flex flex-col gap-3"
+          >
+            <h3
+              class="text-white text-lg mb-[4px]"
+            >
+              Company
+            </h3>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              About us
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Support
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Blog
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Press
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Glossary
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              FAQs
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Careers
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Market Hours
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Media Kit
+            </a>
+          </div>
+          <div
+            class="flex flex-col gap-3"
+          >
+            <h3
+              class="text-white text-lg mb-[4px]"
+            >
+              Products
+            </h3>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Features
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Stocks
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              News
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Learn
+            </a>
+          </div>
+          <div
+            class="flex flex-col gap-3"
+          >
+            <h3
+              class="text-white text-lg mb-[4px]"
+            >
+              Legal & Regulatory
+            </h3>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Terms & Conditions
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Privacy Policy
+            </a>
+            <a
+              class="text-xs text-zinc-500"
+              href="#"
+            >
+              Disclosures
+            </a>
+          </div>
+        </div>
+        <div
+          class="flex w-full text-xs text-zinc-600"
+        >
+          © baraka financial limited. All rights reserved. Baraka Financial Limited (“Baraka”) is registered in the Dubai International Financial Centre (“DIFC”) and is regulated by the Dubai Financial Services Authority (“DFSA”). It holds a Category 4 license with the permission of Arranging Deals in Investments, with a Retail endorsement. However, Baraka is not authorised to hold, nor control, client assets or money. Therefore, the client money rules are not applicable to the business currently undertaken by Baraka. Baraka is a wholly owned subsidiary of Baraka Technology Holding in Abu Dhabi Global Market.
+          <br />
+          <br />
+          Baraka does not provide any trading or investment advice and shall not be responsible for any loss arising from any investment based on any general information provided by Baraka or as may be available on Baraka’s website and other web-based services (collectively, the “Website Services“). Your investment can fluctuate, so you may get back less than you invested. Baraka does not warrant that the information is accurate, reliable or complete or that the supply will be without interruptions. Any third party information provided through does not reflect the views of Baraka.
+          <br />
+          <br />
+          The content of the Website Services provided by Baraka is only intended to provide you with general information and is neither an offer to sell nor a solicitation of an offer to purchase any security and may not be relied upon for investment purposes. Any commentaries, articles, daily news items, public and/or private chat publications, stock analysis and/or other information contained in the Website Services should not be considered investment advice.
+          <br />
+          <br />
+          Baraka shall not be liable for any delay, inaccuracy, error or omission of any kind in the information provided by Baraka and/or any third party information provider or for any resulting loss or damage you may suffer as a result of or in connection with the information supplied by Baraka and/or any third party information provider. In addition, Baraka shall have no liability for any losses arising from unauthorized access to information or any other misuse of information.
+          <br />
+          <br />
+          Any opinions, news, research, analysis, prices, or other information contained on our Website Services, or emailed to you, are provided as general market commentary, and do not constitute investment advice. Baraka will not accept liability for any loss or damage, including, without limitation, for any loss of profit which may arise directly or indirectly from use of or reliance on such information. Each decision as to whether an investment is appropriate or proper is an independent decision by you. You agree that Baraka has no fiduciary duty to you and is not responsible for any liabilities, claims, damages, costs and expenses, including attorneys’ fees, incurred in connection with you following Baraka’s generic investment information. Baraka makes no representations as to whether a particular investment is appropriate or suitable for you.
+          <br />
+          <br />
+          Baraka provides traditional securities and does not intend to engage a Shariah advisor or obtain a fatwa regarding Shariah screened securities. Baraka does not have an Islamic Window endorsement from the DFSA. Clients should be aware that Shariah screened stocks may involve additional risks and costs. There can be no assurance as to the Shariah compliance of the securities listed by Baraka. Clients are reminded that views on Shariah compliance differ and that they should obtain their own independent advice as to the permissibility of a security.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
