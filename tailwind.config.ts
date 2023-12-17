@@ -1,20 +1,27 @@
 import type { Config } from 'tailwindcss'
 
+const { nextui } = require("@nextui-org/react");
+
 const config: Config = {
   content: [
-    './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/components/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/app/**/*.{js,ts,jsx,tsx,mdx}',
+    './src/**/*.{js,ts,jsx,tsx,mdx}',
+    './node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}'
   ],
   theme: {
     extend: {
       backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'hero-bg-image': "url('../../public/hero-bg.png')",
+        'premium-upgrade-bg-image': "url('../../public/premium-bg.png')",
+        'testimonial-bg-image': "url('../../public/testimonial-bg.png')",
+        'portfolio-stats-bg-image': "url(../../public/portfolio-stats-bg.png)",
+        'footer-bg-image': "url('../../public/footer-bg.png')",
       },
+      gridTemplateColumns: {
+        'products-table-header': "48% 20% 20% 10%",
+        'products-table': "50% 20% 20% 10%"
+      }
     },
   },
-  plugins: [],
+  plugins: [nextui()],
 }
 export default config
