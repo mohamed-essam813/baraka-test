@@ -1,0 +1,120 @@
+name: PR Checks
+
+on:
+  pull_request_target:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  install_packages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+        with:
+          ref: "refs/pull/${{ github.event.number }}/merge"
+
+      - name: Cache yarn dependencies
+        uses: actions/cache@master
+        id: yarn-cache
+        with:
+          path: .yarn/cache
+          key: web.app-6-${{ hashFiles('yarn.lock') }}
+          restore-keys: web.app-6
+
+      - name: Cache node_modules
+        uses: actions/cache@master
+        with:
+          path: node_modules
+          key: web.app-nd-6-${{ hashFiles('yarn.lock') }}
+          restore-keys: web.app-nd-6
+
+      - name: Install packages
+        run: yarn install
+
+  lint:
+    runs-on: ubuntu-latest
+    needs: [install_packages]
+
+    steps:
+      - uses: actions/checkout@master
+        with:
+          ref: "refs/pull/${{ github.event.number }}/merge"
+
+      - name: Cache yarn dependencies
+        uses: actions/cache@master
+        id: yarn-cache
+        with:
+          path: .yarn/cache
+          key: web.app-6-${{ hashFiles('yarn.lock') }}
+          restore-keys: web.app-6
+
+      - name: Cache node_modules
+        uses: actions/cache@master
+        with:
+          path: node_modules
+          key: web.app-nd-6-${{ hashFiles('yarn.lock') }}
+          restore-keys: web.app-nd-6
+
+      - name: Lint
+        run: yarn lint:ci
+
+  tsc:
+    runs-on: ubuntu-latest
+    needs: [install_packages]
+
+    steps:
+      - uses: actions/checkout@master
+        with:
+          ref: "refs/pull/${{ github.event.number }}/merge"
+
+      - name: Cache yarn dependencies
+        uses: actions/cache@master
+        id: yarn-cache
+        with:
+          path: .yarn/cache
+          key: web.app-6-${{ hashFiles('yarn.lock') }}
+          restore-keys: web.app-6
+
+      - name: Cache node_modules
+        uses: actions/cache@master
+        with:
+          path: node_modules
+          key: web.app-nd-6-${{ hashFiles('yarn.lock') }}
+          restore-keys: web.app-nd-6
+
+      - name: TSC
+        run: yarn tsc
+
+  tests:
+    runs-on: ubuntu-latest
+    needs: [install_packages]
+
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1/5, 2/5, 3/5, 4/5, 5/5]
+
+    steps:
+      - uses: actions/checkout@master
+        with:
+          ref: "refs/pull/${{ github.event.number }}/merge"
+          fetch-depth: 0
+
+      - name: Cache yarn dependencies
+        uses: actions/cache@master
+        id: yarn-cache
+        with:
+          path: .yarn/cache
+          key: web.app-6-${{ hashFiles('yarn.lock') }}
+          restore-keys: web.app-6
+
+      - name: Cache node_modules
+        uses: actions/cache@master
+        with:
+          path: node_modules
+          key: web.app-nd-6-${{ hashFiles('yarn.lock') }}
+          restore-keys: web.app-nd-6
+
+      - name: Test
+        run: NODE_OPTIONS=--unhandled-rejections=warn yarn test:ci --shard=${{ matrix.shard }}
