@@ -90,4 +90,4 @@ jobs:
           restore-keys: web.app-nd-6
 
       - name: Test
-        run: NODE_OPTIONS=--unhandled-rejections=warn yarn test:ci --shard=${{ matrix.shard }}
+        run: NODE_OPTIONS=--unhandled-rejections=warn yarn test --shard=${{ matrix.shard }}
